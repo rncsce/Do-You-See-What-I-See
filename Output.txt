@@ -1,0 +1,5 @@
+In column 0 there are 2 who can see. Their heights are 81.4, 90 inches.
+In column 1 there are 1 who can see. Their heights are 121.4 inches.
+In column 2 there are 4 who can see. Their heights are 50.2, 80.2, 90.7, 92.6 inches.
+In column 3 there are 2 who can see. Their heights are 75.3, 89.9 inches.
+In column 4 there are 3 who can see. Their heights are 75.1, 94.7, 95.1 inches.
